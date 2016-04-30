@@ -10,7 +10,7 @@ AMOND is a library and console tool to get all the android device information(Se
  </ol> 
  </br>
  
- Note: "Soon will update the code"
+<font size="3" color="red">Note: "Soon will update the code"</font> 
  
  
  
