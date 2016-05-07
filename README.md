@@ -1,7 +1,7 @@
 # AMOND v2.1 
 <b>Android MObile Number Device</b>
 
-AMOND is a library and console tool to get all the android device information(Serial Number, Os Version, Bild Number, Kernal version... etc). This will works mainly on android deburg device (adb) commnds with java programming. it's purly based on java IO classes. This tool will give you multiple connected device information into single CSV file.
+AMOND is a library and console tool to get all the android device information(Serial Number, Os Version, Build Number, Kernel version... etc). This will works mainly on android debug device (adb) commands with java programming. it's purely based on java IO classes. This tool will give you multiple connected device information into single CSV file.
 
 <b>How to Use</b></br>
 
