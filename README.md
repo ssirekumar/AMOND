@@ -6,7 +6,10 @@ AMOND is a library and console tool to get all the android device information(Se
 <b>How to Use</b></br>
 
  <ol type="1">
-  <li>Conncet your android single/multiple devices to machine(windows, linux, mac) and check Settings -> Developer Options -> USB debugging is enabled or not.</li>
+  <li>Conncet your android single/multiple devices to machine(windows, linux, mac) and check Settings -> Developer Options     USB debugging is enabled or not.</li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
  </ol> 
  </br>
  
