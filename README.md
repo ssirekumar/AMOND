@@ -7,13 +7,15 @@ AMOND is a library and console tool to get all the android device information(Se
 
  <ol type="1">
   <li>Conncet your android single/multiple devices to machine(windows, linux, mac) and check Settings -> Developer Options     USB debugging is enabled or not.</li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li>Run the InfoAndroid.java file with below diffrent command line arguments</li>
+  <li>amond -c {Get the device information on console} </li>
+  <li>amond -csv {Write a csv file with default commands defined in amond library} </li>
+  <li>amond -config -c {Get the device information from user specifed commands from "configuration_adb_commands.csv" file out put on console} </li>
+  <li>amond -config -csv {Write into a csv file from user specifed commands from "configuration_adb_commands.csv" file } </li>
  </ol> 
  </br>
  
-<font size="3" color="red">Note: "Soon will update the code"</font> 
+
  
  
  
