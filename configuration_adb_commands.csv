@@ -1,0 +1,14 @@
+Command Parameter Name,ADB Shell Command,Execution Type(Yes|NO)
+Device Manufacturer,adb -s #device# shell getprop ro.product.manufacturer,Yes
+Android version,adb -s #device# shell getprop ro.build.version.release,Yes
+Model number,adb -s #device# shell getprop ro.product.model,Yes
+Baseband version,adb -s #device# shell getprop getprop gsm.version.baseband,Yes
+Build number,adb -s #device# shell getprop ro.build.display.id,Yes
+Kernal version,adb -s #device# shell cat /proc/version,Yes
+Android Os language,adb -s #device# shell getprop ro.product.locale.language,Yes
+Android SDK-API version,adb -s #device# shell getprop ro.build.version.sdk,Yes
+Device IMEI number,adb -s #device# shell dumpsys iphonesubinfo,Yes
+Phone Type(GSM/CDMA),adb -s #device# shell dumpsys iphonesubinfo,Yes
+Device Serial Number,adb devices,Yes
+Device DPI(Dot Per Inch),,Yes
+GPU(Graphics Processing Unit),,
